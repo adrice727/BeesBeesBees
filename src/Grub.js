@@ -6,5 +6,8 @@ var Grub = function() {
 
 };
 
-Grub.prototype.eat = function(){};
+Grub.prototype.eat = function(){
+  var that = this;
+  console.log("Eating " + that.food);
+};
 
