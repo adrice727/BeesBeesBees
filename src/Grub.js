@@ -1,8 +1,8 @@
 var Grub = function() {
 
-  this.age = 8;
-  this.color = 'pink';
-  this.food  = 'jelly';
+  this.age = 0;
+  this.color = "pink";
+  this.food  = "jelly";
 
 };
 

@@ -2,8 +2,9 @@ var Bee = function() {
 
   Grub.call(this);
 
-  this.color = yellow;
-  this.job;
+  this.color = "yellow";
+  this.age = 5;
+  this.job = "keep on growing";
 
 
 };
